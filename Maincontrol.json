@@ -1,2 +1,55 @@
-
-{ "appId": "c7cc6818", "packageName": "custom.toastonline.abnsafita", "versionName": "1.0", "versionCode": 1, "updatedAt": 1776791945941, "active": true, "enabled": true, "displayName": "ENC:gaBoSCSIHy7qcJvio0SltfzVZpvepgUCatapeafQnmSCqOhH/UnJ", "theme":  { "mode": "auto" }, "modules": { "loginSystem": { "enabled": false, "url": "https://gist.githubusercontent.com/abn-safita/91c462e9ca02db6e017921b8654eaff2/raw/loginSystem.json" }, "security": { "enabled": true, "url": "https://raw.githubusercontent.com/modder19/Harry/refs/heads/main/Security.json" }, "maintenance": { "enabled": false, "url": "https://gist.githubusercontent.com/abn-safita/91c462e9ca02db6e017921b8654eaff2/raw/maintenance.json" }, "dialogs": { "enabled": false, "url": "https://gist.githubusercontent.com/abn-safita/91c462e9ca02db6e017921b8654eaff2/raw/dialogs.json" }, "banners": { "enabled": true, "url": "https://gist.githubusercontent.com/abn-safita/91c462e9ca02db6e017921b8654eaff2/raw/banners.json" }, "update": { "enabled": false, "url": "https://gist.githubusercontent.com/abn-safita/91c462e9ca02db6e017921b8654eaff2/raw/update.json" }, "notifications": { "enabled": true, "url": "https://gist.githubusercontent.com/abn-safita/91c462e9ca02db6e017921b8654eaff2/raw/notifications.json" }, "bottomSheet": { "enabled": false, "url": "https://gist.githubusercontent.com/abn-safita/91c462e9ca02db6e017921b8654eaff2/raw/bottomSheet.json" }, "snackBar": { "enabled": false, "url": "https://gist.githubusercontent.com/abn-safita/91c462e9ca02db6e017921b8654eaff2/raw/snackBar.json" }, "toast": { "enabled": false, "url": "https://gist.githubusercontent.com/abn-safita/91c462e9ca02db6e017921b8654eaff2/raw/toast.json" } } }
+{
+  "appId": "c7cc6818",
+  "packageName": "custom.toastonline.abnsafita",
+  "sürümAdı": "1.0",
+  "sürüm kodu": 1,
+  "updatedAt": 1776791945941,
+  "aktif": doğru,
+  "etkin": doğru,
+  "displayName": "ENC:gaBoSCSIHy7qcJvio0SltfzVZpvepgUCatapeafQnmSCqOhH/UnJ",
+  "tema": {
+    "mod": "otomatik"
+  },
+  "modüller": {
+    "GirişSistemi": {
+      "etkin": yanlış,
+      "url": "https://gist.githubusercontent.com/abn-safita/91c462e9ca02db6e017921b8654eaff2/raw/loginSystem.json"
+    },
+    "güvenlik": {
+      "etkin": doğru,
+      "url": "https://raw.githubusercontent.com/modder19/Harry/refs/heads/main/Security.json"
+    },
+    "Bakım": {
+      "etkin": yanlış,
+      "url": "https://gist.githubusercontent.com/abn-safita/91c462e9ca02db6e017921b8654eaff2/raw/maintenance.json"
+    },
+    "diyaloglar": {
+      "etkin": yanlış,
+      "url": "https://gist.githubusercontent.com/abn-safita/91c462e9ca02db6e017921b8654eaff2/raw/dialogs.json"
+    },
+    "afişler": {
+      "etkin": doğru,
+      "url": "https://gist.githubusercontent.com/abn-safita/91c462e9ca02db6e017921b8654eaff2/raw/banners.json"
+    },
+    "güncelleme": {
+      "etkin": yanlış,
+      "url": "https://gist.githubusercontent.com/abn-safita/91c462e9ca02db6e017921b8654eaff2/raw/update.json"
+    },
+    "bildirimler": {
+      "etkin": doğru,
+      "url": "https://gist.githubusercontent.com/abn-safita/91c462e9ca02db6e017921b8654eaff2/raw/notifications.json"
+    },
+    "altsayfa": {
+      "etkin": yanlış,
+      "url": "https://gist.githubusercontent.com/abn-safita/91c462e9ca02db6e017921b8654eaff2/raw/bottomSheet.json"
+    },
+    "SnackBar": {
+      "etkin": yanlış,
+      "url": "https://gist.githubusercontent.com/abn-safita/91c462e9ca02db6e017921b8654eaff2/raw/snackBar.json"
+    },
+    "tost": {
+      "etkin": yanlış,
+      "url": "https://gist.githubusercontent.com/abn-safita/91c462e9ca02db6e017921b8654eaff2/raw/toast.json"
+    }
+  }
+}
