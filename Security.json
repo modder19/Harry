@@ -1,1 +1,31 @@
-{ "etkin": doğru, "ekran görüntüsü engellendi": yanlış, "kontroller": { "kök": { "etkin": yanlış }, "emülatör": { "etkin": yanlış }, "hata ayıklama": { "etkin": yanlış }, "vpn": { "etkin": yanlış }, "koklama": { "etkin": yanlış, "paketler": [] }, "kara liste": { "etkin": yanlış, "paketler": [] }, "imza": { "etkin": doğru, "expectedSha256": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC", "beklenenİmza": "" } } }
+{
+  "etkin": doğru,
+  "ekran görüntüsü engellendi": yanlış,
+  "kontroller": {
+    "kök": {
+      "etkin": yanlış
+    },
+    "emülatör": {
+      "etkin": yanlış
+    },
+    "hata ayıklama": {
+      "etkin": yanlış
+    },
+    "vpn": {
+      "etkin": yanlış
+    },
+    "koklama": {
+      "etkin": yanlış,
+      "paketler": []
+    },
+    "kara liste": {
+      "etkin": yanlış,
+      "paketler": []
+    },
+    "imza": {
+      "etkin": doğru,
+      "expectedSha256": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC",
+      "beklenenİmza": ""
+    }
+  }
+}
