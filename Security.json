@@ -1,31 +1,31 @@
 {
-  "etkin": doğru,
-  "ekran görüntüsü engellendi": yanlış,
-  "kontroller": {
-    "kök": {
-      "etkin": yanlış
+  "enabled": true,
+  "screenshotBlocked": false,
+  "checks": {
+    "root": {
+      "enabled": false
     },
-    "emülatör": {
-      "etkin": yanlış
+    "emulator": {
+      "enabled": false
     },
-    "hata ayıklama": {
-      "etkin": yanlış
+    "debugging": {
+      "enabled": false
     },
     "vpn": {
-      "etkin": yanlış
+      "enabled": false
     },
-    "koklama": {
-      "etkin": yanlış,
-      "paketler": []
+    "sniffing": {
+      "enabled": false,
+      "packages": []
     },
-    "kara liste": {
-      "etkin": yanlış,
-      "paketler": []
+    "blacklist": {
+      "enabled": false,
+      "packages": []
     },
-    "imza": {
-      "etkin": doğru,
-      "expectedSha256": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5D",
-      "beklenenİmza": ""
+    "signature": {
+      "enabled": true,
+      "expectedSha256": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC",
+      "expectedSignature": ""
     }
   }
 }
