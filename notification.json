@@ -6,7 +6,7 @@
 "lines": ["رسالة ١", "رسالة ٢", "مرحبا ٣"],
   "sound": true,
   "vibrate": true,
-  "expires": "2025-05-01T12:00:00",
+  "expires": "2026-23-04T12:00:00",
   "image": "https://tinyurl.com/2cc6e4bo",
   "actions": [
     {
