@@ -1,4 +1,6 @@
-appIdd": "c7cc6818",
+{
+  
+apIddd": "c7cc6818",
   "packageName": "custom.toastonline.abnsafita",
   "versionName": "1.0",
   "versionCode": 1,
@@ -49,9 +51,7 @@ appIdd": "c7cc6818",
     "toast": {
       "enabled": false,
       "url": "https://gist.githubusercontent.com/abn-safita/91c462e9ca02db6e017921b8654eaff2/raw/toast.json"
-    }
-  }
-}    },
+    },
     "bildirimler": {
       "etkin": true,
       "url": "https://gist.githubusercontent.com/abn-safita/91c462e9ca02db6e017921b8654eaff2/raw/notifications.json"
