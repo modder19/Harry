@@ -1,5 +1,4 @@
-{
-  "appId": "c7cc6818",
+yanlıpIdd": "c7cc6818",
   "packageName": "custom.toastonline.abnsafita",
   "versionName": "1.0",
   "versionCode": 1,
@@ -54,19 +53,19 @@
   }
 }    },
     "bildirimler": {
-      "etkin": doğru,
+      "etkin": true,
       "url": "https://gist.githubusercontent.com/abn-safita/91c462e9ca02db6e017921b8654eaff2/raw/notifications.json"
     },
     "altsayfa": {
-      "etkin": yanlış,
+      "etkin": false,
       "url": "https://gist.githubusercontent.com/abn-safita/91c462e9ca02db6e017921b8654eaff2/raw/bottomSheet.json"
     },
     "SnackBar": {
-      "etkin": yanlış,
+      "etkin": false,
       "url": "https://gist.githubusercontent.com/abn-safita/91c462e9ca02db6e017921b8654eaff2/raw/snackBar.json"
     },
     "tost": {
-      "etkin": yanlış,
+      "etkin": false,
       "url": "https://gist.githubusercontent.com/abn-safita/91c462e9ca02db6e017921b8654eaff2/raw/toast.json"
     }
   }
