@@ -17,7 +17,7 @@
     },
     "security": {
       "enabled": true,
-      "url": "https://gist.githubusercontent.com/abn-safita/91c462e9ca02db6e017921b8654eaff2/raw/security.json"
+      "url": "https://raw.githubusercontent.com/modder19/Harry/refs/heads/main/Security.json"
     },
     "maintenance": {
       "enabled": false,
